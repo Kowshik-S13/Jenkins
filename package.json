@@ -1,0 +1,19 @@
+{
+  "name": "basicjsapp",
+  "version": "1.0.0",
+  "main": "calc-overloading-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kowshik-S13/Jenkins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kowshik-S13/Jenkins/issues"
+  },
+  "homepage": "https://github.com/Kowshik-S13/Jenkins#readme",
+  "description": ""
+}
